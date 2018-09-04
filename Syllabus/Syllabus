@@ -1,1 +1,27 @@
 Core Java Syllabus
+
+Introduction to Java and OOPS
+Java Tokens- Comments, Identifiers, Keywords, Separators
+Working with Java Editor Softwares – Editplus, NetBeans, Eclipse
+Packages with static imports
+Working with jar
+Modifiers – File level, Access level and Non-access level
+Datatypes, Literals, Variables, Type Conversion, Casting & Promotion
+Reading runtime values from keyboard and Properties File
+Operators and Control Statements
+Method and Types of methods
+Variable and Types of Variables
+Constructor and Types of constructors
+Block and Types of Blocks
+Declarations, Invocations and Executions
+Compiler & JVM Architecture with Reflection API
+Static Members and their execution control flow
+Non-Static Members and their execution control flow
+Final Variables and their rules
+Classes and Types of classes
+OOPS- Fundamentals, Models, Relations and Principles
+Coupling and Cohesion (MVC and LCRP Architectures)
+Types of objects & Garbage Collection
+Arrays and Var-arg types
+Enum and Annotation
+Design Patterns-Basics
